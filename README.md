@@ -18,7 +18,7 @@ Getting Started
 Create and activate a virtual environment
 python -m venv .venv
 
-# Windows
+# windows
 .\.venv\Scripts\activate
 # macOS/Linux
 source .venv/bin/activate
